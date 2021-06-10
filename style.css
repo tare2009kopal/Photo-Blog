@@ -1,0 +1,14 @@
+body{
+    text-align:center;
+    background-color:aquamarine;
+    color:darkcyan;
+}
+.images{
+    width:300px;
+    height:260px;
+    padding:30px;
+}
+h1{
+    font-size:50px;
+    color:darkgreen;
+}
